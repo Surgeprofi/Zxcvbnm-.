@@ -59,6 +59,8 @@ article {
     background-color: white;
     width: 400px;
     margin: 15px 15px 15px 15px;
+    display: flex;
+    justify-content: center
 }
 
 .article-but {
@@ -93,7 +95,8 @@ footer p {
 section {
     justify-content: center;
     padding: 0px 50px 40px 10px;
-    display: flex
+    display: flex;
+    justify-content: center
 }
 
 article h2 {
